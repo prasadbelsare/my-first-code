@@ -1,4 +1,4 @@
-# my-first-code
+# my-first-code Great
 
 This is my first code 
 I will make many of such codes
